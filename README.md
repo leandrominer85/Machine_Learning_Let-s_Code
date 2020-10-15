@@ -6,9 +6,6 @@ Deadline
 
     Dia 12/10/2020, às 23h50.
 
-Envio
-
-E-mail para rychard.guedes@letscode-academy.com, com título Pi 373 Projeto 07 - Squad XX.
 Contextualização
 
 A PyCoders Ltda., cada vez mais especializada no mundo da Inteligência Artificial e Ciência de Dados, foi procurada por uma fintech para desenvolver um projeto de concessão de crédito para veículos. Nesse projeto, espera-se a criação de valor que discrimine ao máximo os bons pagadores dos maus pagadores. Para isso, foi disponibilizada uma base de dados com mais de 185 mil casos de empréstimos do passado com diversas características dos clientes. Devem ser entregues um modelo. Por questões contratuais, o pagamento será realizado baseado no desempenho (gini) do modelo ao longo do tempo.
